@@ -57,3 +57,5 @@ target/
 .settings
 .springBeans
 .sts4-cache
+
+/gz/
